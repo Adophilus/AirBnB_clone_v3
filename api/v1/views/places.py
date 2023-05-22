@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
 View for Place objects that handles all default RESTFul API actions.
 """
